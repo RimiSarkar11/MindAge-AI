@@ -1,3 +1,5 @@
 Flask
 vaderSentiment
 gunicorn
+Flask-SQLAlchemy
+Flask-Login
